@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #FF0000;
+    --primary-color:#5F9EA0;
     --text-color: #333;
     --background-color: #f4f4f4;
 }
@@ -65,7 +65,7 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #f5f7fa 0%, #FF0000 100%);
+    background: linear-gradient(135deg, #f5f7fa 0%, #5F9EA0 100%);
     padding-top: 80px;
 }
 
